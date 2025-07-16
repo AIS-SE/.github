@@ -14,7 +14,7 @@
 ## Term 3:
 ### Mechatronics
 - [Arduino Mechatronics Resources](https://github.com/AIS-SE/AISSE_Arduino_Bootcamp), a template repository for learning Arduino microcontroller basics using the Seeed Sensor Kit.
-- [Ardunio Boilerplate](https://github.com/AIS-SE/AISSE_Arduino_Boilerplate), a collection of code snippets, libraries, 3D models and resources for Arduino mechatronics.
+- [Arduino Boilerplate](https://github.com/AIS-SE/AISSE_Arduino_Boilerplate), a collection of code snippets, libraries, 3D models and resources for Arduino mechatronics.
 
 ### Machine Learning
 - [Scikit-learn Linear Regression](https://github.com/AIS-SE/NESA_Course_Specifications_Linear_Regression), A Jupyter Notebook collection designed to support students' understanding of the Linear Regression model defined in the NESA Software Engineering Course Specifications pg 28.
