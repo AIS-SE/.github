@@ -5,7 +5,7 @@
 🌈 Contribution - Thank you Tempe High School Designers & Developers for sharing the resources to help our HSC students in this new Software Engineering course.
 
 👩‍💻 Useful GitHub resources - 
-# Year 11 HSC SE
+## Year 11 HSC SE
 ## Term 1 & 2
 ### Python VSCode
 - [Python Fundamentals](https://github.com/AIS-SE/PythonFundamentals), a fork of Harvard's CS50 Python course for Codepsaces and how to use bash, python and git commands.
