@@ -8,7 +8,7 @@
 
 - [Ardunio Boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate), a collection of code snippets, libraries, 3D models and resources for Arduino mechatronics.
 
-- [Python Fundamentals](https://github.com/TempeHS/PythonFundamentals), a fork of Harvard's CS50 Python course for Codepsaces and how to use bash, python and git commands.
+- [Python Fundamentals](https://github.com/AIS-SE/PythonFundamentals), a fork of Harvard's CS50 Python course for Codepsaces and how to use bash, python and git commands.
 - [VSCode Setup](https://github.com/TempeHS/TempeHS_VSCode_Setup), instructions, configuration and profiles for VSCode & Codespaces.
   
 - [Arduino Mechatronics Resources](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp), a template repository for learning Arduino microcontroller basics using the Seeed Sensor Kit.
