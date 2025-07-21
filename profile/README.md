@@ -16,6 +16,7 @@
 - [Arduino Mechatronics Resources](https://github.com/AIS-SE/AISSE_Arduino_Bootcamp), a template repository for learning Arduino microcontroller basics using the Seeed Sensor Kit.
 - [Arduino Boilerplate](https://github.com/AIS-SE/AISSE_Arduino_Boilerplate), a collection of code snippets, libraries, 3D models and resources for Arduino mechatronics.
 
+## Year 12 HSC SE
 ### Machine Learning
 - [Scikit-learn Linear Regression](https://github.com/AIS-SE/NESA_Course_Specifications_Linear_Regression), A Jupyter Notebook collection designed to support students' understanding of the Linear Regression model defined in the NESA Software Engineering Course Specifications pg 28.
 - [Practical-Application-of-NESA-Software-Engineering-MLOps](https://github.com/AIS-SE/Practical-Application-of-NESA-Software-Engineering-MLOps), A Jupyter Notebook collection designed to develop a practical understanding of Machine Learning Operations (MLOps) defined in the NESA Software Engineering Course Specifications pg 27.
